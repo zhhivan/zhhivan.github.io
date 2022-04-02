@@ -32,10 +32,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://zhhivan.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: zhhivan            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: zhhivan            # change to your twitter username
 
 social:
   # Change to your full name.
