@@ -1,3 +1,10 @@
+---
+title: TryHackMe CC: Pen Testing write-up
+date: 2022-04-06 23:43:30 +1300
+categories: [IT, CyberSec]
+tags: [write-up]     # TAG names should always be lowercase
+---
+
 TryHackMe CC: Pen Testing write-up
 ====
 
