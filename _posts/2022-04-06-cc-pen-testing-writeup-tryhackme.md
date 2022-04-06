@@ -8,15 +8,15 @@ tags: [write-up]
 ### task 1
 
 ### task 2
-Pretty easy, so I am only listing notable questions
+Pretty easy, so I am only listing notable questions  
 $ sudo nmap -p80 -sVC 10.10.65.59
 
 ### task 3
-All answers can be found in netcat man page
+All answers can be found in netcat man page  
 $ man nc
 
 ### task 4
-Mostly just reading gobuster man page
+Mostly just reading gobuster man page  
 $ gobuster help ~
 #### Q: What is the name of the hidden directory
 $ gobuster dir -u 10.10.236.179 -w /usr/share/wordlists/rockyou.txt
