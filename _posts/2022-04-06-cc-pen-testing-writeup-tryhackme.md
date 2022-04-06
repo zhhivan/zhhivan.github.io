@@ -5,6 +5,9 @@ categories: [IT, CyberSec]
 tags: [write-up]     # TAG names should always be lowercase
 ---
 
+TryHackMe CC: Pen Testing write-up
+====
+
 ### task 1
 
 ### task 2
