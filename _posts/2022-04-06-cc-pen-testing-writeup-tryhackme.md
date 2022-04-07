@@ -24,4 +24,14 @@ $ gobuster dir -u 10.10.236.179 -w /usr/share/wordlists/rockyou.txt
 #### Q: What is the name of the hidden file with the extension xxa
 $ gobuster dir -u 10.10.236.179 -w /usr/share/wordlists/rockyou.txt -x xxa
 
-### task 5
+# task 5
+$ man nikto
+
+# task 6
+
+# task 7
+$ msfconsole -q  
+$ msf6> help
+
+# task 8
+
