@@ -13,8 +13,6 @@ $ export ip=10.10.x.x
 $ echo "$ip example.com" >> /etc/hosts
 ```
 
-Web browser visits [http://example.com:port](http://example.com:port)
-
 ## 1, recon
 ```bash
 
