@@ -8,9 +8,11 @@ tags: [write-up]
 ## 1, setup
 
 create ip variable so we don't need to enter it again
+```bash
 $ export ip=10.10.39.230
-$ echo $ip
 
+$ echo $ip
+```
 ## 2, recon & enumeration
 
 ### TASK 1
